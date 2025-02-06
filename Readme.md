@@ -148,6 +148,6 @@ public String takeScreenshot(String testName) {
     }
     return;
 }   
-   ```
+   ```java
 git clone
 https://github.com/BesterGo/QA49_FoodNow_k41.git  
