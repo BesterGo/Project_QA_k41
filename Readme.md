@@ -9,7 +9,7 @@
 
 ## ◻ Test Plans and Documentation
 
-- **Test Plan**
+- **T[est Plan](https://github.com/BesterGo/QA49_FoodNow_k41#:~:text=Plans%20and%20Documentation-,Test%20Plan,-Test%20Case%20Jira)**
 - **Test Case Jira Design Map**
 - **TestLink**
 
